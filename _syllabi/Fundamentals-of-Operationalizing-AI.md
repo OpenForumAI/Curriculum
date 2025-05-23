@@ -3,8 +3,6 @@
 
 This course provides an in-depth understanding of the entire AI System lifecycle. It covers a broad spectrum of topics, from business scoping, data management and engineering, to model development, deployment, and stewardship.
 
-## Skills
-cost-benefit analyses, business strategy, technical expertise (Jupyter Lab, Docker, Kubernetes, Kubeflow, Kafka, and Evidently), AI system management, project management, data preparation, model development, organizational design, leadership, ethical analysis, AI applications, model evaluation, LLMOps, prompt engineering
 
 ## Course Description
 Artificial Intelligence (AI) and Generative AI (GenAI) are revolutionizing industries by enhancing efficiency, decision- making, and innovation. However, many organizations encounter significant obstacles in realizing and scaling AI's full potential. Recent surveys reveal that nearly 75% of companies struggle to achieve and scale value from AI initiatives, with approximately 70% of challenges stemming from people and process issues, 20% from technology problems, and only 10% related to AI algorithms. Furthermore, over 50% of executives express concerns about integrating GenAI into their operations, citing issues such as limited traceability and irreproducibility of outcomes, which could lead to suboptimal or even illegal decision-making.
@@ -24,3 +22,6 @@ The main learning objectives of the course are to:
 4. Ethical Governance and Risk Management: Establish and enforce comprehensive governance frameworks that promote ethical, transparent, and effective AI operations. Address potential risks proactively while fostering stakeholder trust and confidence in AI systems.
 5. Organizational Integration and Skill Building: Evaluate organizational talent and process needs, and create actionable strategic plans to address skill gaps. Integrate AI seamlessly into business processes and build the necessary capabilities to sustain AI-driven innovation within the organization.
 6. Practical Tool Proficiency: Gain hands-on experience with key AI lifecycle tools—Jupyter Lab, Docker, Kubernetes, Kubeflow, Kafka, and Evidently—preparing you to effectively scale and deploy AI systems in real-world environments.
+
+## Skills
+cost-benefit analyses, business strategy, technical expertise (Jupyter Lab, Docker, Kubernetes, Kubeflow, Kafka, and Evidently), AI system management, project management, data preparation, model development, organizational design, leadership, ethical analysis, AI applications, model evaluation, LLMOps, prompt engineering
