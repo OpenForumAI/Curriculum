@@ -4,3 +4,5 @@
 
 ## Public Sector AI Curriculum
 In strong partnership with the NobleReach Foundation, CMU will develop, package, and share an open-source curriculum on topics including Introduction to AI, Fundamentals of Operationalizing AI, Responsible AI, and Generative AI.
+
+Syllabi for the courses are available in the "syllabi" folder.
