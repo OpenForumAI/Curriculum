@@ -26,4 +26,4 @@ In strong partnership with the NobleReach Foundation, CMU will develop, package,
 #### Skills
 #### Learning Objectives
 #### Syllabus
-<object data="GenAI.pdf" width="1000" height="1000" type='application/pdf'/>
+<iframe src="genAI.pdf" width="100%" height="600px"></iframe>
