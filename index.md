@@ -5,7 +5,7 @@ Carnegie Mellon University developed and packaged an open-source curriculum on t
 
 
 ### Introduction to AI
-
+<iframe src="Introduction to AI.pdf" width="100%" height="600px"></iframe>
 
 
 ### Fundamentals of Operationalizing AI - Mastering AI System Lifecycle from Theory to Practice
