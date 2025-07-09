@@ -1,6 +1,6 @@
 ![open_forum_for_ai_logo](https://github.com/user-attachments/assets/dfe12c5f-5c3f-487b-8e95-d88cf7b528c0)
 
-CMU developed and packaged an open-source curriculum on topics including Introduction to AI, Fundamentals of Operationalizing AI, Responsible AI, and Generative AI.
+Carnegie Mellon University developed and packaged an open-source curriculum on topics including Introduction to AI, Fundamentals of Operationalizing AI, Responsible AI, and Generative AI.
 
 
 ### Introduction to AI
@@ -25,4 +25,4 @@ CMU developed and packaged an open-source curriculum on topics including Introdu
 #### Skills
 #### Learning Objectives
 #### Syllabus
-<iframe src="genAI.pdf" width="100%" height="600px"></iframe>
+[Generative AI Syllabus (PDF)](GenAI.pdf)
