@@ -13,7 +13,7 @@ Carnegie Mellon University developed and packaged an open-source curriculum on t
 
 
 ### Responsible AI: Principles, Policies, Practices
-
+<iframe src="Responsible AI.pdf" width="100%" height="600px"></iframe>
 
 
 ### Generative AI
