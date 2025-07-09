@@ -5,18 +5,15 @@ Carnegie Mellon University developed and packaged an open-source curriculum on t
 
 
 ### Introduction to AI
-#### Skills
-#### Syllabus
+
 
 
 ### Fundamentals of Operationalizing AI - Mastering AI System Lifecycle from Theory to Practice
-#### Skills
-#### Syllabus
+<iframe src="Operationalizing AI.pdf" width="100%" height="600px"></iframe>
 
 
 ### Responsible AI: Principles, Policies, Practices
-#### Skills
-#### Syllabus
+
 
 
 ### Generative AI
