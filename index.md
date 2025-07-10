@@ -19,10 +19,10 @@ Carnegie Mellon University worked to develop and package an AI open-source curri
 
 ## Fundamentals of Operationalizing AI - Mastering AI System Lifecycle from Theory to Practice
 ### Skills
-- **Communication, Critical Thinking, and Interpersonal Skills:** written and verbal communication, teamwork and collaboration, project management, systems thinking, business stragtegy
+- **Communication, Critical Thinking, and Interpersonal Skills:** written and verbal communication, teamwork and collaboration, systems thinking
 - **Ethics and Governance Skills:** risk evaluation and mitigation, governance frameworks,  ethical and policy analysis
 - **Technical and AI Interaction Skills:** end-to-end AI lifecycle management, MLOps, Jupyter Lab, Docker, Kubernetes, Kubeflow, Kafka, Evidently, basic data science
-- **Strategy and Innovation Skills:** cost-benefit and ROI analysis <br><br>
+- **Strategy and Innovation Skills:** project management, business strategy, cost-benefit and ROI analysis <br><br>
 
 ### Syllabus
 <iframe src="Operationalizing AI.pdf" width="100%" height="600px"></iframe> <br><br>
