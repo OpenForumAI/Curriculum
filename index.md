@@ -18,16 +18,21 @@ Carnegie Mellon University worked to develop and package an AI open-source curri
 
 ### Fundamentals of Operationalizing AI - Mastering AI System Lifecycle from Theory to Practice
 #### Skills
-**Communication, Critical Thinking, and Interpersonal Skills:** Written and verbal communication, teamwork and collaboration, project management, systems thinking
-**Technical and AI Interaction Skills:** end-to-end AI lifecycle management, MLOps, Jupyter Lab, Docker, Kubernetes, Kubeflow, Kafka, Evidently
+**Communication, Critical Thinking, and Interpersonal Skills:** written and verbal communication, teamwork and collaboration, project management, systems thinking, business stragtegy
+**Ethics and Governance Skills:** risk evaluation and mitigation, governance frameworks,  ethical and policy analysis
+**Technical and AI Interaction Skills:** end-to-end AI lifecycle management, MLOps, Jupyter Lab, Docker, Kubernetes, Kubeflow, Kafka, Evidently, basic data science
 **Strategy and Innovation Skills:** cost-benefit and ROI analysis <br><br>
 <iframe src="Operationalizing AI.pdf" width="100%" height="600px"></iframe> <br><br>
 
   
 
 ### Responsible AI: Principles, Policies, Practices
-<iframe src="Responsible AI.pdf" width="100%" height="600px"></iframe> <br><br>
+#### Skills
+**Communication and Interpersonal Skills:** teamwork and collaboration, written and verbal communication
+**Technical and AI Interaction Skills:** foundational concepts of AI; understanding explainability, transparency, interpretability, bias, and fairness of models; privacy and security
+**Ethics and Governance Skills:** NIST AI Risk Management Framework, governance strategy, regulatory fluency, ethical analysis, policy analysis, impact assessments and audits <br><br>
 
+<iframe src="Responsible AI.pdf" width="100%" height="600px"></iframe> <br><br>
   
 
 ### Generative AI
