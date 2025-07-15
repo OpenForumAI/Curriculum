@@ -1,7 +1,8 @@
  <img src="/ofai cmu" width = "500">
 
 # Public Sector AI Curriculum
-Carnegie Mellon University worked to develop and package an AI open-source curriculum to support the public-sector workforce. Below are syllabi for four core courses: Introduction to AI, Fundamentals of Operationalizing AI, Responsible AI, and Generative AI.<br><br><br>
+In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses: Introduction to AI; Fundamentals of Operationalizing AI; Responsible AI: Principles, Policies, and Practices; and Generative AI: Applications, Implications, and Governance. Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments.
+<br><br><br>
 
   
 
