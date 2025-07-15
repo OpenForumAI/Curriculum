@@ -6,7 +6,7 @@ In order to prepare professionals to work with open-source AI... including oppor
 
 <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
   <strong>Jump to a course:</strong>
-  <ul style="list-style-type: none; padding-left: 0; margin-top: 0.5em;">
+  <ul style="margin-top: 0.5em;">
     <li><a href="#introduction-to-ai">Introduction to AI</a></li>
     <li><a href="#fundamentals-of-operationalizing-ai">Fundamentals of Operationalizing AI</a></li>
     <li><a href="#responsible-ai">Responsible AI</a></li>
