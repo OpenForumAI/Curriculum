@@ -2,14 +2,16 @@
 
 # Public Sector AI Curriculum
 In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses: Introduction to AI; Fundamentals of Operationalizing AI; Responsible AI: Principles, Policies, and Practices; and Generative AI: Applications, Implications, and Governance. Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments.
-In order to prepare professionals to work with open-source AI... including opportunities, risks, limitations, and frontier developments.
+In order to prepare professionals to work with open-source AI... including opportunities, risks, limitations, and frontier developments. <br><br><br><br>
 
-<div style="border: 1px solid #ccc; padding: 1em; background-color: #f9f9f9; border-radius: 6px; margin-top: 1em;">
-  <strong>Jump to a course:</strong><br><br>
-  <a href="#introduction-to-ai">Introduction to AI</a> ·
-  <a href="#fundamentals-of-operationalizing-ai">Fundamentals of Operationalizing AI</a> ·
-  <a href="#responsible-ai">Responsible AI</a> ·
-  <a href="#generative-ai">Generative AI</a>
+<div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
+  <strong>Jump to a course:</strong>
+  <ul style="list-style-type: none; padding-left: 0; margin-top: 0.5em;">
+    <li><a href="#introduction-to-ai">Introduction to AI</a></li>
+    <li><a href="#fundamentals-of-operationalizing-ai">Fundamentals of Operationalizing AI</a></li>
+    <li><a href="#responsible-ai">Responsible AI</a></li>
+    <li><a href="#generative-ai">Generative AI</a></li>
+  </ul>
 </div>
 
 <br><br>
