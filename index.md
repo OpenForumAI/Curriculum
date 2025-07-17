@@ -60,16 +60,15 @@ In order to prepare professionals to work with open-source AI... including oppor
 <br><br>
 <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
   <h3>Developing Your Own Curriculum</h3>  
- <br> <br>
  The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing activities and detailed course content. <br> <br>
  
 <strong>For example, these prompts can help develop activities related to specific content:</strong>
   <ul style="margin-top: 0.5em;">
-    <li>Using this syllabus, create an interactive activity that focuses on AI interpretability methods for a class of <em>20 graduate students</em>. It should be done in _small groups_ and take approximately *20-30 minutes*.</li> <br>
+    <li>Using this syllabus, create an interactive activity that focuses on <em>AI interpretability methods</em> for a class of <em>20 graduate students</em>. It should be done in <em>small groups</em> and take approximately <em>20-30 minutes</em>.</li> <br>
   </ul>
    
 <strong>These prompts can help develop content related to specific skills:</strong>
   <ul style="margin-top: 0.5em;">
-    <li>Using this syllabus, create an interactive activity that focuses on _AI-related policy writing_ for a class of _35 undergraduate students_. It should be done in _pairs_ and take approximately _15 minutes_.</li>
+    <li>Using this syllabus, create an interactive activity that focuses on <em>AI-related policy writing</em> for a class of <em>35 undergraduate students</em>. It should be done in <em>pairs</em> and take approximately <em>15 minutes</em>.</li>
   </ul>
 </div>
