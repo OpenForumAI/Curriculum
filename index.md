@@ -61,7 +61,7 @@ In order to prepare professionals to work with open-source AI... including oppor
 <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
   <strong>Developing Your Own Curriculum</strong>  
  <br> <br>
- The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing activities and detailed course content. <br>
+ The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing activities and detailed course content. <br> <br>
  
 **For example, these prompts can help you develop activities related to specific content:**
     <li>Using this syllabus, create an interactive activity that focuses on AI interpretability methods for a class of 20 graduate students. It should be done in small groups and take approximately 20-30 minutes.</li> <br>
