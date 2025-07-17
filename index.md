@@ -66,6 +66,7 @@ In order to prepare professionals to work with open-source AI... including oppor
 **For example, these prompts can help you develop activities related to specific content:**
   <ul style="margin-top: 0.5em;">
     <li>Using this syllabus, create an interactive activity that focuses on AI interpretability methods for a class of 20 graduate students. It should be done in small groups and take approximately 20-30 minutes.</li> <br>
+  </ul>
    
 **These prompts can help you develop content related to specific skills:**
   <ul style="margin-top: 0.5em;">
