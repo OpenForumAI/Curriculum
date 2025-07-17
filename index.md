@@ -60,6 +60,7 @@ In order to prepare professionals to work with open-source AI... including oppor
 <br><br>
 <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
   <strong>Making Your Own Curriculum</strong>
+ The above syllabi outline topics relevant to the course content.
   <ul style="margin-top: 0.5em;">
     <li><a href="LLM Prompts"
   </ul>
