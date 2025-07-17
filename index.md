@@ -59,9 +59,10 @@ In order to prepare professionals to work with open-source AI... including oppor
 
 <br><br>
 <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
-  <strong>Making Your Own Curriculum</strong>
- The above syllabi outline topics relevant to the course content.
+  <strong>Making Your Own Curriculum</strong>  
+ <br>
+ The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing activities and detailed course content. For example:
   <ul style="margin-top: 0.5em;">
-    <li><a href="LLM Prompts"
+    <li><a>word</a></li>
   </ul>
 </div>
