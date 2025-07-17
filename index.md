@@ -63,13 +63,13 @@ In order to prepare professionals to work with open-source AI... including oppor
  <br> <br>
  The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing activities and detailed course content. <br> <br>
  
-For example, these prompts can help you develop activities related to specific content:
+For example, these prompts can help develop activities related to specific content:
   <ul style="margin-top: 0.5em;">
-    <li>Using this syllabus, create an interactive activity that focuses on AI interpretability methods for a class of 20 graduate students. It should be done in small groups and take approximately 20-30 minutes.</li> <br>
+    <li>Using this syllabus, create an interactive activity that focuses on _AI interpretability methods_ for a class of _20 graduate students_. It should be done in _small groups_ and take approximately _20-30 minutes_.</li> <br>
   </ul>
    
-These prompts can help you develop content related to specific skills:
+These prompts can help develop content related to specific skills:
   <ul style="margin-top: 0.5em;">
-    <li>Using this syllabus, create an interactive activity that focuses on AI-related policy writing for a class of 20 graduate students. It should be done in pairs and take approximately 15 minutes.</li> <br>
+    <li>Using this syllabus, create an interactive activity that focuses on _AI-related policy writing_ for a class of _35 undergraduate students_. It should be done in _pairs_ and take approximately _15 minutes_.</li> <br>
   </ul>
 </div>
