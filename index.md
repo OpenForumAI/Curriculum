@@ -64,13 +64,14 @@ In order to prepare professionals to work with open-source AI... including oppor
  
 <strong>For example, these prompts can help develop content and activities related to specific content:</strong>
   <ul style="margin-top: 0.5em;">
-    <li>Using this syllabus, create an interactive activity that focuses on <em>AI interpretability methods</em> for a class of <em>20 graduate students</em>. It should be done in <em>small groups</em> and take approximately <em>20-30 minutes</em>.</li> <br>
-   <li>Using this syllabus, create a 60-minute lesson on <em>the EU AI Act</em> for a class of <em>graduate students</em>.</li> <br>
+    <li>Based on this syllabus, create an interactive activity that focuses on <em>AI interpretability methods</em> for a class of <em>20 graduate students</em>. It should be done in <em>small groups</em> and take approximately <em>20-30 minutes</em>.</li> <br>
+   <li>Based on this syllabus, create a <em>60-minute</em> lesson on <em>the EU AI Act</em> for a class of <em>graduate students</em>.</li> <br>
   </ul>
    
 <strong>These prompts can help develop activities related to specific skills:</strong>
   <ul style="margin-top: 0.5em;">
-    <li>Using this syllabus, create an interactive activity that focuses on <em>AI-related policy writing</em> for a class of <em>35 undergraduate students</em>. It should be done in <em>pairs</em> and take approximately <em>15 minutes</em>.</li> <br><br>
+    <li>Based on this syllabus, create an interactive activity that focuses on <em>AI-related policy writing</em> for a class of <em>35 undergraduate students</em>. It should be done in <em>pairs</em> and take approximately <em>15 minutes</em>.</li> <br>
+   <li>Based on this syllabus, create a lesson that teaches students to use <em>cost-benefit analysis to evaluate social returns from AI implementation</em>em> for a class of <em>graduate students</em>. The lesson should take approximately <em>80 minutes</em> and should include interactive activities done individually, in pairs, or in groups.</li> <br><br>
   </ul>
 
 <strong>Tips for using LLMs for Curriculum Development:</strong>
