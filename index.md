@@ -5,12 +5,13 @@ In order to prepare professionals to work with open-source AI in the public sect
 In order to prepare professionals to work with open-source AI... including opportunities, risks, limitations, and frontier developments. <br><br>
 
 <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
-  <strong>Jump to a course:</strong>
+  <strong>Jump to:</strong>
   <ul style="margin-top: 0.5em;">
     <li><a href="#introduction-to-ai">Introduction to AI</a></li>
     <li><a href="#fundamentals-of-operationalizing-ai-mastering-ai-system-lifecycle-from-theory-to-practice">Fundamentals of Operationalizing AI</a></li>
     <li><a href="#responsible-ai-principles-policies-practices">Responsible AI</a></li>
     <li><a href="#generative-ai">Generative AI</a></li>
+   <li><a href="#developing-your-own-curriculum">Developing Your Own Curriculum</a></li>
   </ul>
 </div>
 
