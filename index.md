@@ -11,7 +11,6 @@ In order to prepare professionals to work with open-source AI... including oppor
     <li><a href="#fundamentals-of-operationalizing-ai-mastering-ai-system-lifecycle-from-theory-to-practice">Fundamentals of Operationalizing AI</a></li>
     <li><a href="#responsible-ai-principles-policies-practices">Responsible AI</a></li>
     <li><a href="#generative-ai">Generative AI</a></li>
-   <li><a href="#developing-your-own-curriculum">Developing Your Own Curriculum</a></li>
   </ul>
 </div>
 
