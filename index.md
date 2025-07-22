@@ -60,7 +60,7 @@ In order to prepare professionals to work with open-source AI... including oppor
 <br><br>
 <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
   <h3><strong>Developing Your Own Curriculum</strong></h3>  
- The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing detailed course materials and related activities.<br><br>
+ The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing detailed course materials and related activities.<br><br><br>
 
 <strong>Tips for using LLMs for Curriculum Development:</strong>
   <ul style="margin-top: 0.5em;">
