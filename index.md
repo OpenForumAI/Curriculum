@@ -8,8 +8,8 @@ In order to prepare professionals to work with open-source AI... including oppor
   <strong>Jump to a course:</strong>
   <ul style="margin-top: 0.5em;">
     <li><a href="#introduction-to-ai">Introduction to AI</a></li>
-    <li><a href="#fundamentals-of-operationalizing-ai">Fundamentals of Operationalizing AI - Mastering AI System Lifecycle from Theory to Practice</a></li>
-    <li><a href="#responsible-ai">Responsible AI: Principles, Policies, Practices</a></li>
+    <li><a href="#fundamentals-of-operationalizing-ai:-Mastering-AI-System-Lifecycle-from-Theory-to-Practice">Fundamentals of Operationalizing AI</a></li>
+    <li><a href="#responsible-ai:-Principles,-Policies,-Practices">Responsible AI</a></li>
     <li><a href="#generative-ai">Generative AI</a></li>
   </ul>
 </div>
@@ -27,7 +27,7 @@ In order to prepare professionals to work with open-source AI... including oppor
 
   
 
-## Fundamentals of Operationalizing AI - Mastering AI System Lifecycle from Theory to Practice
+## Fundamentals of Operationalizing AI: Mastering AI System Lifecycle from Theory to Practice
 ### Skills
 - **Communication, Critical Thinking, and Interpersonal Skills:** written and verbal communication, teamwork and collaboration, systems thinking
 - **Strategy and Innovation Skills:** project management, business strategy, cost-benefit and ROI analysis
