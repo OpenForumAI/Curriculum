@@ -1,8 +1,15 @@
  <img src="ofai-cmu.png" width = "500">
 
-# Public Sector AI Curriculum
-In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses: Introduction to AI; Fundamentals of Operationalizing AI: Mastering AI System Lifecycle from Theory to Practice; Responsible AI: Principles, Policies, and Practices; and Generative AI: Applications, Implications, and Governance. Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments.
-In order to prepare professionals to work with open-source AI... including opportunities, risks, limitations, and frontier developments. <br><br>
+# Public-Sector AI Curriculum
+In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses:
+<ul style="margin-top: 0.5em;">
+    <li>Introduction to AI</li>
+    <li>Fundamentals of Operationalizing AI: Mastering AI System Lifecycle from Theory to Practice</li>
+    <li>Responsible AI: Principles, Policies, and Practices</li>
+    <li>Generative AI: Applications, Implications, and Governance</li>
+   </ul>
+   
+Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments. <br><br>
 
 <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
   <strong>Jump to:</strong>
