@@ -92,4 +92,10 @@ Collectively, these courses introduce students to the knowledge and skills requi
 
 For more tips on LLM prompt engineering for curriculum development, see https://ieeexplore.ieee.org/document/10869091. <br>
 
-</div>
+</div> <br><br>
+
+<div background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em>
+<footer id="page-footer">
+ A project of the <a href="https://www.cmu.edu/engin/programs/ofai.html">Open Forum for AI</a> created by <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University’s Heinz College of Information Systems and Public Policy in partnership with the <a href="https://noblereach.org/">NobleReach Foundation</a>.
+</footer>
+ </div>
