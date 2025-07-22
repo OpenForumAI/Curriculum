@@ -1,7 +1,7 @@
  <img src="ofai-cmu.png" width = "500">
 
 # Public Sector AI Curriculum
-In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses: Introduction to AI; Fundamentals of Operationalizing AI; Responsible AI: Principles, Policies, and Practices; and Generative AI: Applications, Implications, and Governance. Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments.
+In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses: Introduction to AI; Fundamentals of Operationalizing AI: Mastering AI System Lifecycle from Theory to Practice; Responsible AI: Principles, Policies, and Practices; and Generative AI: Applications, Implications, and Governance. Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments.
 In order to prepare professionals to work with open-source AI... including opportunities, risks, limitations, and frontier developments. <br><br>
 
 <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
@@ -10,7 +10,7 @@ In order to prepare professionals to work with open-source AI... including oppor
     <li><a href="#introduction-to-ai">Introduction to AI</a></li>
     <li><a href="#fundamentals-of-operationalizing-ai-mastering-ai-system-lifecycle-from-theory-to-practice">Fundamentals of Operationalizing AI</a></li>
     <li><a href="#responsible-ai-principles-policies-practices">Responsible AI</a></li>
-    <li><a href="#generative-ai">Generative AI</a></li>
+    <li><a href="#generative-ai-applications-implications-and-governance">Generative AI</a></li>
   </ul>
 </div>
 
@@ -49,7 +49,7 @@ In order to prepare professionals to work with open-source AI... including oppor
 <iframe src="Responsible AI.pdf" width="100%" height="600px"></iframe> <br><br>
   
 
-## Generative AI
+## Generative AI: Applications, Implications, and Governance
 ### Skills
 - **Communication, Strategy, and Critical Thinking Skills:** strategic literacy, policy analysis, policy writing, regulatory fluency
 - **Technical and AI Interaction Skills:** AI fluency, foundational concepts of generative AI, adaptability to new technologies, applications of AI <br><br>
@@ -62,13 +62,19 @@ In order to prepare professionals to work with open-source AI... including oppor
   <h3><strong>Developing Your Own Curriculum</strong></h3>  
  The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing detailed course materials and related activities.<br> <br>
  
-<strong>For example, these prompts can help develop activities related to specific content:</strong>
+<strong>For example, these prompts can help develop content and activities related to specific content:</strong>
   <ul style="margin-top: 0.5em;">
     <li>Using this syllabus, create an interactive activity that focuses on <em>AI interpretability methods</em> for a class of <em>20 graduate students</em>. It should be done in <em>small groups</em> and take approximately <em>20-30 minutes</em>.</li> <br>
+   <li>Using this syllabus, create a 60-minute lesson on <em>the EU AI Act</em> for a class of <em>graduate students</em>.</li> <br>
   </ul>
    
-<strong>These prompts can help develop content related to specific skills:</strong>
+<strong>These prompts can help develop activities related to specific skills:</strong>
   <ul style="margin-top: 0.5em;">
-    <li>Using this syllabus, create an interactive activity that focuses on <em>AI-related policy writing</em> for a class of <em>35 undergraduate students</em>. It should be done in <em>pairs</em> and take approximately <em>15 minutes</em>.</li>
+    <li>Using this syllabus, create an interactive activity that focuses on <em>AI-related policy writing</em> for a class of <em>35 undergraduate students</em>. It should be done in <em>pairs</em> and take approximately <em>15 minutes</em>.</li> <br><br>
+
+<strong>Tips for using LLMs for Curriculum Development:</strong>
+   <ul style="margin-top: 0.5em;">
+    <li>Try entering these prompts into several different LLMs, such as NotebookLM and several chatbots.</li> <br>
+    <li>Use sufficient context to prompt the LLM, i.e. "I am creating lessons for a 14-week-long programming-intensive course that provides an overview of foundational AI concepts and techniques, such as ML, model evaluations, neural networks, computer vision, large language models, and natural language processing as well as real-world applications, including their limitations and social implications. The class is for graduate students. Each class is 80 minutes and should incorporate individual, partner, or group activities in addition to lectures (supported by slides)."</li> <br>
   </ul>
 </div>
