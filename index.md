@@ -80,9 +80,9 @@ In order to prepare professionals to work with open-source AI... including oppor
 <strong>These prompts can help develop activities related to specific skills:</strong>
   <ul style="margin-top: 0.5em;">
     <li>Based on this syllabus, create an interactive activity that focuses on <em>AI-related policy writing</em> for a class of <em>35 undergraduate students</em>. It should be done in <em>pairs</em> and take approximately <em>15 minutes</em>.</li>
-   <li>Based on this syllabus, create a lesson that teaches students to use <em>cost-benefit analysis to evaluate social returns from AI implementation</em> for a class of <em>graduate students</em>. The lesson should take approximately <em>80 minutes</em> and should include interactive activities done individually, in pairs, or in groups.</li>
+   <li>Based on this syllabus, create a lesson that teaches students to use <em>cost-benefit analysis to evaluate social returns from AI implementation</em> for a class of <em>graduate students</em>. The lesson should take approximately <em>80 minutes</em> and should include interactive activities done individually, in pairs, or in groups.</li> <br>
   </ul>
 
-For more tips on LLM prompt engineering for curriculum development, see https://ieeexplore.ieee.org/document/10869091.
+For more tips on LLM prompt engineering for curriculum development, see https://ieeexplore.ieee.org/document/10869091. <br>
 
 </div>
