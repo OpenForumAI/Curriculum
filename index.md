@@ -60,25 +60,25 @@ In order to prepare professionals to work with open-source AI... including oppor
 <br><br>
 <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
   <h3><strong>Developing Your Own Curriculum</strong></h3>  
- The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing detailed course materials and related activities.<br> <br>
+ The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing detailed course materials and related activities.<br>
 
 <strong>Tips for using LLMs for Curriculum Development:</strong>
   <ul style="margin-top: 0.5em;">
-<li>Try entering prompts into several different LLMs, such as NotebookLM and several chatbots.</li> <br>
-<li>Use sufficient context to prompt the LLM, i.e. "I am creating lessons for a 14-week-long programming-intensive course that provides an overview of foundational AI concepts and techniques, such as ML, model evaluations, neural networks, computer vision, large language models, and natural language processing as well as real-world applications, including their limitations and social implications. The class is for graduate students. Each class is 80 minutes and should incorporate individual, partner, or group activities in addition to lectures (supported by slides)."</li> <br>
+<li>Try entering prompts into several different LLMs, such as NotebookLM and several chatbots.</li>
+<li>Use sufficient context to prompt the LLM, i.e. "I am creating lessons for a 14-week-long programming-intensive course that provides an overview of foundational AI concepts and techniques, such as ML, model evaluations, neural networks, computer vision, large language models, and natural language processing as well as real-world applications, including their limitations and social implications. The class is for graduate students. Each class is 80 minutes and should incorporate individual, partner, or group activities in addition to lectures (supported by slides)."</li> 
 <li>Iterate on prompts/questions repeatedly based on LLM outputs. Prompt specific revisions based on background knowledge of what will or won't work for your specific student population and course structure.</li> <br>
   </ul>
  
 <strong>For example, these prompts can help develop content and activities related to specific content:</strong>
   <ul style="margin-top: 0.5em;">
-    <li>Based on this syllabus, create an interactive activity that focuses on <em>AI interpretability methods</em> for a class of <em>20 graduate students</em>. It should be done in <em>small groups</em> and take approximately <em>20-30 minutes</em>.</li> <br>
-   <li>Based on this syllabus, create a <em>60-minute</em> lesson on <em>the EU AI Act</em> for a class of <em>graduate students</em>.</li> <br>
+    <li>Based on this syllabus, create an interactive activity that focuses on <em>AI interpretability methods</em> for a class of <em>20 graduate students</em>. It should be done in <em>small groups</em> and take approximately <em>20-30 minutes</em>.</li>
+   <li>Based on this syllabus, create a <em>60-minute</em> lesson on <em>the EU AI Act</em> for a class of <em>graduate students</em>.</li>
   </ul>
    
 <strong>These prompts can help develop activities related to specific skills:</strong>
   <ul style="margin-top: 0.5em;">
-    <li>Based on this syllabus, create an interactive activity that focuses on <em>AI-related policy writing</em> for a class of <em>35 undergraduate students</em>. It should be done in <em>pairs</em> and take approximately <em>15 minutes</em>.</li> <br>
-   <li>Based on this syllabus, create a lesson that teaches students to use <em>cost-benefit analysis to evaluate social returns from AI implementation</em>em> for a class of <em>graduate students</em>. The lesson should take approximately <em>80 minutes</em> and should include interactive activities done individually, in pairs, or in groups.</li> <br>
+    <li>Based on this syllabus, create an interactive activity that focuses on <em>AI-related policy writing</em> for a class of <em>35 undergraduate students</em>. It should be done in <em>pairs</em> and take approximately <em>15 minutes</em>.</li>
+   <li>Based on this syllabus, create a lesson that teaches students to use <em>cost-benefit analysis to evaluate social returns from AI implementation</em>em> for a class of <em>graduate students</em>. The lesson should take approximately <em>80 minutes</em> and should include interactive activities done individually, in pairs, or in groups.</li>
   </ul>
 
 </div>
