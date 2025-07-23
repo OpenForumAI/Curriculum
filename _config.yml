@@ -1,2 +1,5 @@
 theme: minima
 title: ""
+.container {
+  max-width: 960px;
+}
