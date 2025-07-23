@@ -91,7 +91,7 @@ Collectively, these courses introduce students to the knowledge and skills requi
    <li>Based on this syllabus, create a lesson that teaches students to use <em>cost-benefit analysis to evaluate social returns from AI implementation</em> for a class of <em>graduate students</em>. The lesson should take approximately <em>80 minutes</em> and should include interactive activities done individually, in pairs, or in groups.</li> <br>
   </ul>
 
-For more tips on LLM prompt engineering for curriculum development, see https://ieeexplore.ieee.org/document/10869091. <br>
+For more tips on LLM prompt engineering for curriculum development, see https://ieeexplore.ieee.org/document/10869091.<br><br>
 
 </div> <br><br>
 
