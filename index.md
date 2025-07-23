@@ -66,8 +66,9 @@ Collectively, these courses introduce students to the knowledge and skills requi
 <iframe src="GenAI.pdf" width="100%" height="600px"></iframe>
 
 <br><br>
-<div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
-  <h3><strong>Developing Your Own Curriculum</strong></h3>  
+<div id="developing-your-own-curriculum"; style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
+  <h3><strong>Developing Your Own Curriculum</strong></h3>
+ 
  The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing detailed course materials and related activities.<br><br><br>
 
 <strong>Tips for using LLMs for Curriculum Development:</strong>
@@ -95,5 +96,8 @@ For more tips on LLM prompt engineering for curriculum development, see https://
 
 </div> <br>
 
-<footer id="page-footer">
+<footer id="page-footer"; style="border-top: 1px solid #ddd; margin-top: 3rem; padding: 1rem 0; color: #666; font-size: 0.9em; text-align: center;">
+  <p>
  A project of the <a href="https://www.cmu.edu/engin/programs/ofai.html">Open Forum for AI</a> created by <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University’s Heinz College of Information Systems and Public Policy in partnership with the <a href="https://noblereach.org/">NobleReach Foundation</a>.
+   </p>
+</footer>
