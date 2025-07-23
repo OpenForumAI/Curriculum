@@ -1,6 +1,6 @@
 <img src="ofai-cmu.png" width="500"> <br>
 
-<h1>Public-Sector AI Curriculum</h1> <br>
+ <br><h1>Public-Sector AI Curriculum</h1>
 
 <p>
 In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses:
@@ -74,7 +74,7 @@ Collectively, these courses introduce students to the knowledge and skills requi
 <br><br>
 
 <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
-<h3 id="developing-your-own-curriculum">Developing Your Own Curriculum</h3>
+<h2 id="developing-your-own-curriculum">Developing Your Own Curriculum</h2>
  
  The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing detailed course materials and related activities.<br><br><br>
 
