@@ -1,6 +1,6 @@
  <img src="ofai-cmu.png" width = "500">
 
-# Public-Sector AI Curriculum
+# Public-Sector AI Curriculum <br>
 In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses:
 <ul style="margin-top: 0.5em;">
     <li>Introduction to AI</li>
