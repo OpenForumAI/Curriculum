@@ -82,9 +82,9 @@ Collectively, these courses introduce students to the knowledge and skills requi
   <ul style="margin-top: 0.5em;">
 <li>Try entering prompts into different LLMs, such as NotebookLM and several chatbots.</li>
 <li>Use sufficient context to prompt the LLM, i.e. "I am creating lessons for a 14-week-long programming-intensive course that provides an overview of foundational AI concepts and techniques, such as ML, model evaluations, neural networks, computer vision, large language models, and natural language processing as well as real-world applications, including their limitations and social implications. The class is for graduate students. Each class is 80 minutes and should incorporate individual, partner, or group activities in addition to lectures (supported by slides)."</li> 
-<li>Describe your adience - explain your students' expected level of knowledge/experience with the course material.</li>   
-<li>Iterate on prompts/questions repeatedly based on LLM outputs. Prompt specific revisions based on background knowledge of what will or won't work for your specific student population and course structure.</li>
-<li>Be specific (as applicable): for example, "the class presentation should contain 15 slides. Each slide should have 4-6 bullet points."</li><br>
+<li>Describe your audience - explain your students' expected level of knowledge/experience with the course material.</li>       
+<li>Be specific (as applicable): for example, "the class presentation should contain 15 slides. Each slide should have 4-6 bullet points."</li>
+<li>Iterate on prompts/questions repeatedly based on LLM outputs. Prompt specific revisions based on background knowledge of what will or won't work for your specific student population and course structure.</li><br>
   </ul>
  
 <strong>For example, these prompts can help develop content and activities related to specific content:</strong>
