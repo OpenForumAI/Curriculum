@@ -15,7 +15,7 @@ In order to prepare professionals to work with open-source AI in the public sect
 
 <p>
 Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments.
-</p>
+</p><br>
 
 <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
   <strong>Jump to:</strong>
