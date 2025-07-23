@@ -1,15 +1,21 @@
- <img src="ofai-cmu.png" width = "500"> <br>
+<img src="ofai-cmu.png" width="500"> <br>
 
-# Public-Sector AI Curriculum <br>
+<h1>Public-Sector AI Curriculum</h1>
+
+<p>
 In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses:
+</p>
+
 <ul style="margin-top: 0.5em;">
-    <li>Introduction to AI</li>
-    <li>Fundamentals of Operationalizing AI: Mastering AI System Lifecycle from Theory to Practice</li>
-    <li>Responsible AI: Principles, Policies, and Practices</li>
-    <li>Generative AI: Applications, Implications, and Governance</li>
-   </ul>
-   
-Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments. <br><br>
+  <li>Introduction to AI</li>
+  <li>Fundamentals of Operationalizing AI: Mastering AI System Lifecycle from Theory to Practice</li>
+  <li>Responsible AI: Principles, Policies, and Practices</li>
+  <li>Generative AI: Applications, Implications, and Governance</li>
+</ul>
+
+<p>
+Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments.
+</p>
 
 <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
   <strong>Jump to:</strong>
@@ -18,7 +24,7 @@ Collectively, these courses introduce students to the knowledge and skills requi
     <li><a href="#fundamentals-of-operationalizing-ai-mastering-ai-system-lifecycle-from-theory-to-practice">Fundamentals of Operationalizing AI</a></li>
     <li><a href="#responsible-ai-principles-policies-practices">Responsible AI</a></li>
     <li><a href="#generative-ai-applications-implications-and-governance">Generative AI</a></li>
-   <li><a href="#developing-your-own-curriculum">Developing Your Own Curriculum</a></li>
+    <li><a href="#developing-your-own-curriculum">Developing Your Own Curriculum</a></li>
   </ul>
 </div>
 
@@ -66,8 +72,9 @@ Collectively, these courses introduce students to the knowledge and skills requi
 <iframe src="GenAI.pdf" width="100%" height="600px"></iframe>
 
 <br><br>
-<div id="developing-your-own-curriculum"; style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
-  <h3><strong>Developing Your Own Curriculum</strong></h3>
+<h3 id="developing-your-own-curriculum">Developing Your Own Curriculum</h3>
+
+<div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
  
  The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing detailed course materials and related activities.<br><br><br>
 
@@ -96,8 +103,8 @@ For more tips on LLM prompt engineering for curriculum development, see https://
 
 </div> <br>
 
-<footer id="page-footer"; style="border-top: 1px solid #ddd; margin-top: 3rem; padding: 1rem 0; color: #666; font-size: 0.9em; text-align: center;">
+<footer id="page-footer" style="border-top: 1px solid #ddd; margin-top: 3rem; padding: 2rem 1rem; background-color: #f9f9f9; color: #666; font-size: 0.9em; text-align: center;">
   <p>
- A project of the <a href="https://www.cmu.edu/engin/programs/ofai.html">Open Forum for AI</a> created by <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University’s Heinz College of Information Systems and Public Policy in partnership with the <a href="https://noblereach.org/">NobleReach Foundation</a>.
-   </p>
+    A project of the <a href="https://www.cmu.edu/engin/programs/ofai.html">Open Forum for AI</a> created by <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University’s Heinz College of Information Systems and Public Policy</a> in partnership with the <a href="https://noblereach.org/">NobleReach Foundation</a>.
+  </p>
 </footer>
