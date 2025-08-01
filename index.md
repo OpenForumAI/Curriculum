@@ -3,28 +3,37 @@
     display: flex;
     gap: 2rem;
     align-items: flex-start;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem 2rem;
   }
 
   #sticky-nav {
     position: sticky;
     top: 1rem;
     align-self: flex-start;
-    min-width: 220px;
+    width: 180px;
     background-color: #f3f3f3;
     border: 1px solid #ddd;
-    padding: 1em 1.5em;
+    padding: 1em;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-    height: fit-content;
+    font-size: 0.9em;
   }
 
   #sticky-nav ul {
-    list-style-type: none;
+    list-style: none;
     padding-left: 0;
+    margin: 0;
   }
 
   #sticky-nav li {
     margin-bottom: 0.5em;
+  }
+
+  .main-content {
+    flex: 1;
+    min-width: 0;
   }
 
   @media (max-width: 768px) {
@@ -34,9 +43,9 @@
 
     #sticky-nav {
       width: 100%;
-      margin-bottom: 1.5rem;
       position: relative;
       box-shadow: none;
+      margin-bottom: 1.5rem;
     }
   }
 </style>
@@ -55,7 +64,7 @@
   </div>
 
   <!-- Main Content -->
-  <div style="flex: 1;">
+  <div class="main-content">
     <img src="ofai-cmu.png" width="500"> <br><br>
 
     <h1>Public-Sector AI Curriculum</h1>
@@ -123,25 +132,25 @@
       <strong>Tips for using LLMs for Curriculum Development:</strong>
       <ul>
         <li>Try entering prompts into different LLMs, such as NotebookLM and several chatbots.</li>
-        <li>Use sufficient context to prompt the LLM...</li>
-        <li>Describe your audience...</li>
-        <li>Be specific...</li>
-        <li>Iterate on prompts/questions repeatedly...</li>
+        <li>Use sufficient context to prompt the LLM, including course goals, duration, and student background.</li>
+        <li>Describe your audience – their level of experience and learning needs.</li>
+        <li>Be specific: e.g. "The class presentation should contain 15 slides..."</li>
+        <li>Iterate and refine based on results.</li>
       </ul>
 
       <strong>Prompts to develop specific content:</strong>
       <ul>
-        <li>Create an interactive activity on <em>AI interpretability methods</em>...</li>
-        <li>Create a <em>60-minute</em> lesson on <em>the EU AI Act</em>...</li>
+        <li>Create an interactive activity focused on <em>AI interpretability methods</em> for <em>20 graduate students</em> in <em>small groups</em>, 20–30 minutes.</li>
+        <li>Develop a <em>60-minute</em> lesson on <em>the EU AI Act</em> for graduate students.</li>
       </ul>
 
       <strong>Prompts for specific skills:</strong>
       <ul>
-        <li>Activity on <em>AI-related policy writing</em> for undergrads...</li>
-        <li>Lesson to teach <em>cost-benefit analysis for AI implementation</em>...</li>
+        <li>Create an activity on <em>AI policy writing</em> for <em>35 undergraduates</em>, in <em>pairs</em>, for <em>15 minutes</em>.</li>
+        <li>Design a lesson on <em>cost-benefit analysis</em> for <em>graduate students</em> with interactive activities, 80 minutes total.</li>
       </ul>
 
-      <p>For more tips on LLM prompt engineering, see <a href="https://ieeexplore.ieee.org/document/10869091">this article</a>.</p>
+      <p>For more tips on LLM prompt engineering for curriculum development, see <a href="https://ieeexplore.ieee.org/document/10869091">this article</a>.</p>
     </div>
 
     <footer id="page-footer" style="border-top: 1px solid #ddd; margin-top: 3rem; padding: 2rem 1rem; background-color: #f9f9f9; color: #666; font-size: 0.9em; text-align: center;">
