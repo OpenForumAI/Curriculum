@@ -17,11 +17,11 @@ In order to prepare professionals to work with open-source AI in the public sect
 Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments.
 </p><br>
 
-<div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
+<div id="sticky-nav" style="position: sticky; top: 1rem; z-index: 1000; background-color: #f3f3f3; border: 1px solid #ddd; padding: 1em 1.5em; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
   <strong>Jump to:</strong>
   <ul style="margin-top: 0.5em;">
     <li><a href="#introduction-to-ai">Introduction to AI</a></li>
-    <li><a href="#fundamentals-of-operationalizing-ai-mastering-ai-system-lifecycle-from-theory-to-practice">Fundamentals of Operationalizing AI</a></li>
+    <li><a href="#fundamentals-of-operationalizing-ai-mastering-ai-system-lifecycle-from-theory-to-practice">Operationalizing AI</a></li>
     <li><a href="#responsible-ai-principles-policies-practices">Responsible AI</a></li>
     <li><a href="#generative-ai-applications-implications-and-governance">Generative AI</a></li>
     <li><a href="#developing-your-own-curriculum">Developing Your Own Curriculum</a></li>
