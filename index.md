@@ -1,17 +1,19 @@
 <style>
+  /* override minima theme default wrapper */
+  body > .wrapper {
+    max-width: none !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 auto !important;
+  }
+
   .layout-wrapper {
-    max-width: 100%; /* ← let it span the full browser width */
-    padding: 1rem 4rem; /* adjust horizontal padding */
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    padding: 2rem 4rem;
+    box-sizing: border-box;
   }
-
-  .main-content {
-    max-width: 900px; /* ← make content itself wider */
-  }
-
-  @media (max-width: 768px) {
-    .layout-wrapper {
-      padding: 1rem 1rem;
-    }
 
   #sticky-nav {
     position: sticky;
@@ -24,6 +26,7 @@
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
     font-size: 0.9em;
+    flex-shrink: 0;
   }
 
   #sticky-nav ul {
@@ -38,12 +41,14 @@
 
   .main-content {
     flex: 1;
+    max-width: 1100px;
     min-width: 0;
   }
 
   @media (max-width: 768px) {
     .layout-wrapper {
       flex-direction: column;
+      padding: 1rem;
     }
 
     #sticky-nav {
@@ -74,9 +79,7 @@
 
     <h1>Public-Sector AI Curriculum</h1>
 
-    <p>
-      In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses:
-    </p>
+    <p>In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses:</p>
 
     <ul>
       <li>Introduction to AI</li>
@@ -85,9 +88,7 @@
       <li>Generative AI: Applications, Implications, and Governance</li>
     </ul>
 
-    <p>
-      Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments.
-    </p>
+    <p>Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments.</p>
 
     <h2 id="introduction-to-ai">Introduction to AI</h2>
     <h3>Skills</h3>
