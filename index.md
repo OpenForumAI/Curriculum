@@ -1,12 +1,17 @@
 <style>
   .layout-wrapper {
-    display: flex;
-    gap: 2rem;
-    align-items: flex-start;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 1rem 2rem;
+    max-width: 100%; /* ← let it span the full browser width */
+    padding: 1rem 4rem; /* adjust horizontal padding */
   }
+
+  .main-content {
+    max-width: 900px; /* ← make content itself wider */
+  }
+
+  @media (max-width: 768px) {
+    .layout-wrapper {
+      padding: 1rem 1rem;
+    }
 
   #sticky-nav {
     position: sticky;
