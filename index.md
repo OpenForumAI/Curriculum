@@ -1,16 +1,16 @@
 <style>
-  body {
-    margin: 0;
-    padding: 0;
+  body > .wrapper {
+    max-width: none !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 auto !important;
   }
 
   .layout-wrapper {
     display: flex;
     gap: 3rem;
     align-items: flex-start;
-    padding: 2rem 3rem;
-    max-width: 1600px;
-    margin: 0 auto;
+    padding: 2rem 5rem;
     box-sizing: border-box;
   }
 
@@ -40,8 +40,20 @@
 
   .main-content {
     flex: 1;
-    max-width: 1200px;
+    max-width: 1400px;
     min-width: 0;
+  }
+
+  footer#page-footer {
+    width: 100%;
+    background-color: #f9f9f9;
+    border-top: 1px solid #ddd;
+    margin-top: 3rem;
+    padding: 2rem 1rem;
+    color: #666;
+    font-size: 0.9em;
+    text-align: center;
+    box-sizing: border-box;
   }
 
   @media (max-width: 768px) {
@@ -158,7 +170,7 @@
       <p>For more tips on LLM prompt engineering for curriculum development, see <a href="https://ieeexplore.ieee.org/document/10869091">this article</a>.</p>
     </div>
 
-    <footer id="page-footer" style="border-top: 1px solid #ddd; margin-top: 3rem; padding: 2rem 1rem; background-color: #f9f9f9; color: #666; font-size: 0.9em; text-align: center;">
+    <footer id="page-footer">
       <p>
         A project of the <a href="https://www.cmu.edu/engin/programs/ofai.html">Open Forum for AI</a> created by <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University’s Heinz College of Information Systems and Public Policy</a> in partnership with the <a href="https://noblereach.org/">NobleReach Foundation</a>.
       </p>
