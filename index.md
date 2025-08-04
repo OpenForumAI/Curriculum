@@ -1,17 +1,16 @@
 <style>
-  /* override minima theme default wrapper */
-  body > .wrapper {
-    max-width: none !important;
-    width: 100% !important;
-    padding: 0 !important;
-    margin: 0 auto !important;
+  body {
+    margin: 0;
+    padding: 0;
   }
 
   .layout-wrapper {
     display: flex;
-    gap: 2rem;
+    gap: 3rem;
     align-items: flex-start;
-    padding: 2rem 4rem;
+    padding: 2rem 3rem;
+    max-width: 1600px;
+    margin: 0 auto;
     box-sizing: border-box;
   }
 
@@ -41,7 +40,7 @@
 
   .main-content {
     flex: 1;
-    max-width: 1100px;
+    max-width: 1200px;
     min-width: 0;
   }
 
