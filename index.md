@@ -1,107 +1,117 @@
-<style>
-  body > .wrapper {
-    max-width: none !important;
-    width: 100% !important;
-    padding: 0 !important;
-    margin: 0 auto !important;
-  }
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Public-Sector AI Curriculum</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: #fff;
+    }
 
-  .layout-wrapper {
-    display: flex;
-    gap: 3rem;
-    align-items: flex-start;
-    padding: 2rem 5rem;
-    box-sizing: border-box;
-  }
+    .page-wrapper {
+      max-width: none;
+      width: 100%;
+    }
 
-  #sticky-nav {
-    position: sticky;
-    top: 1rem;
-    align-self: flex-start;
-    width: 180px;
-    background-color: #f3f3f3;
-    border: 1px solid #ddd;
-    padding: 1em;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-    font-size: 0.9em;
-    flex-shrink: 0;
-  }
-
-  #sticky-nav ul {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-  }
-
-  #sticky-nav li {
-    margin-bottom: 0.5em;
-  }
-
-  .main-content {
-    flex: 1;
-    max-width: 1400px;
-    min-width: 0;
-  }
-
-  footer#page-footer {
-    width: 100%;
-    background-color: #f9f9f9;
-    border-top: 1px solid #ddd;
-    margin-top: 3rem;
-    padding: 2rem 1rem;
-    color: #666;
-    font-size: 0.9em;
-    text-align: center;
-    box-sizing: border-box;
-  }
-
-  @media (max-width: 768px) {
     .layout-wrapper {
-      flex-direction: column;
-      padding: 1rem;
+      display: flex;
+      align-items: flex-start;
+      padding: 2rem 3rem;
+      max-width: 1600px;
+      margin: 0 auto;
+      gap: 3rem;
     }
 
     #sticky-nav {
-      width: 100%;
-      position: relative;
-      box-shadow: none;
-      margin-bottom: 1.5rem;
+      position: sticky;
+      top: 1rem;
+      align-self: flex-start;
+      width: 180px;
+      background-color: #f3f3f3;
+      border: 1px solid #ddd;
+      padding: 1em;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      font-size: 0.9em;
+      flex-shrink: 0;
     }
-  }
-</style>
 
-<div class="layout-wrapper">
-  <!-- Sticky Sidebar -->
-  <div id="sticky-nav">
-    <strong>Jump to:</strong>
-    <ul>
-      <li><a href="#introduction-to-ai">Introduction to AI</a></li>
-      <li><a href="#fundamentals-of-operationalizing-ai-mastering-ai-system-lifecycle-from-theory-to-practice">Operationalizing AI</a></li>
-      <li><a href="#responsible-ai-principles-policies-practices">Responsible AI</a></li>
-      <li><a href="#generative-ai-applications-implications-and-governance">Generative AI</a></li>
-      <li><a href="#developing-your-own-curriculum">Developing Your Own Curriculum</a></li>
-    </ul>
-  </div>
+    #sticky-nav ul {
+      list-style: none;
+      padding-left: 0;
+      margin: 0;
+    }
 
-  <!-- Main Content -->
-  <div class="main-content">
-    <img src="ofai-cmu.png" width="500"> <br><br>
+    #sticky-nav li {
+      margin-bottom: 0.5em;
+    }
 
-    <h1>Public-Sector AI Curriculum</h1>
+    .main-content {
+      flex: 1;
+      max-width: 1200px;
+      min-width: 0;
+    }
 
-    <p>In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses:</p>
+    .footer-wrapper {
+      background-color: #f9f9f9;
+      border-top: 1px solid #ddd;
+      margin-top: 3rem;
+      padding: 2rem 1rem;
+      font-size: 0.9em;
+      color: #666;
+      text-align: center;
+    }
 
-    <ul>
-      <li>Introduction to AI</li>
-      <li>Fundamentals of Operationalizing AI: Mastering AI System Lifecycle from Theory to Practice</li>
-      <li>Responsible AI: Principles, Policies, and Practices</li>
-      <li>Generative AI: Applications, Implications, and Governance</li>
-    </ul>
+    @media (max-width: 768px) {
+      .layout-wrapper {
+        flex-direction: column;
+        padding: 1rem;
+      }
 
-    <p>Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments.</p>
+      #sticky-nav {
+        width: 100%;
+        position: relative;
+        box-shadow: none;
+        margin-bottom: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page-wrapper">
+    <div class="layout-wrapper">
+      <div id="sticky-nav">
+        <strong>Jump to:</strong>
+        <ul>
+          <li><a href="#introduction-to-ai">Introduction to AI</a></li>
+          <li><a href="#fundamentals-of-operationalizing-ai-mastering-ai-system-lifecycle-from-theory-to-practice">Operationalizing AI</a></li>
+          <li><a href="#responsible-ai-principles-policies-practices">Responsible AI</a></li>
+          <li><a href="#generative-ai-applications-implications-and-governance">Generative AI</a></li>
+          <li><a href="#developing-your-own-curriculum">Developing Your Own Curriculum</a></li>
+        </ul>
+      </div>
 
-    <h2 id="introduction-to-ai">Introduction to AI</h2>
+      <div class="main-content">
+        <!-- Your main content starts here -->
+
+        <img src="ofai-cmu.png" width="500"> <br><br>
+
+        <h1>Public-Sector AI Curriculum</h1>
+
+        <p>In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses:</p>
+
+        <ul>
+          <li>Introduction to AI</li>
+          <li>Fundamentals of Operationalizing AI: Mastering AI System Lifecycle from Theory to Practice</li>
+          <li>Responsible AI: Principles, Policies, and Practices</li>
+          <li>Generative AI: Applications, Implications, and Governance</li>
+        </ul>
+
+        <p>Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments.</p>
+
+        <h2 id="introduction-to-ai">Introduction to AI</h2>
     <h3>Skills</h3>
     <ul>
       <li><strong>Communication and Interpersonal Skills:</strong> Written and verbal communication, teamwork and collaboration, conflict resolution</li>
@@ -170,10 +180,14 @@
       <p>For more tips on LLM prompt engineering for curriculum development, see <a href="https://ieeexplore.ieee.org/document/10869091">this article</a>.</p>
     </div>
 
-    <footer id="page-footer">
+      </div> <!-- end main-content -->
+    </div> <!-- end layout-wrapper -->
+
+    <div class="footer-wrapper">
       <p>
         A project of the <a href="https://www.cmu.edu/engin/programs/ofai.html">Open Forum for AI</a> created by <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University’s Heinz College of Information Systems and Public Policy</a> in partnership with the <a href="https://noblereach.org/">NobleReach Foundation</a>.
       </p>
-    </footer>
-  </div>
-</div>
+    </div>
+  </div> <!-- end page-wrapper -->
+</body>
+</html>
