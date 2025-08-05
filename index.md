@@ -90,73 +90,74 @@
       </ul>
     </div>
     <div class="main-content">
-       <h2 id="introduction-to-ai">Introduction to AI</h2>
-    <h3>Skills</h3>
-    <ul>
-      <li><strong>Communication and Interpersonal Skills:</strong> Written and verbal communication, teamwork and collaboration, conflict resolution</li>
-      <li><strong>Analysis and Critical Thinking Skills:</strong> Broad socio-technical perspective, ethical analysis, policy analysis</li>
-      <li><strong>Applied and Functional Skills:</strong> Project management, problem scoping, applying AI to specific problems, understanding uses and limitations of AI</li>
-      <li><strong>Technical Skills:</strong> Data collection, analysis, processing; programming; foundational AI concepts (ML, LLMs, neural networks, etc.)</li>
-    </ul>
-    <h3>Syllabus</h3>
-    <iframe src="Introduction to AI.pdf" width="100%" height="600px"></iframe> <br><br>
-
-    <h2 id="fundamentals-of-operationalizing-ai-mastering-ai-system-lifecycle-from-theory-to-practice">Fundamentals of Operationalizing AI: Mastering AI System Lifecycle from Theory to Practice</h2>
-    <h3>Skills</h3>
-    <ul>
-      <li><strong>Communication, Critical Thinking, and Interpersonal Skills:</strong> written and verbal communication, teamwork and collaboration, systems thinking</li>
-      <li><strong>Strategy and Innovation Skills:</strong> project management, business strategy, cost-benefit and ROI analysis</li>
-      <li><strong>Ethics and Governance Skills:</strong> risk evaluation and mitigation, governance frameworks, ethical and policy analysis</li>
-      <li><strong>Technical and AI Interaction Skills:</strong> end-to-end AI lifecycle management, MLOps, Jupyter Lab, Docker, Kubernetes, Kubeflow, Kafka, Evidently, basic data science</li>
-    </ul>
-    <h3>Syllabus</h3>
-    <iframe src="Operationalizing AI.pdf" width="100%" height="600px"></iframe> <br><br>
-
-    <h2 id="responsible-ai-principles-policies-practices">Responsible AI: Principles, Policies, Practices</h2>
-    <h3>Skills</h3>
-    <ul>
-      <li><strong>Communication and Interpersonal Skills:</strong> teamwork and collaboration, written and verbal communication</li>
-      <li><strong>Ethics and Governance Skills:</strong> NIST AI Risk Management Framework, governance strategy, regulatory fluency, ethical analysis, policy analysis, impact assessments and audits</li>
-      <li><strong>Technical and AI Interaction Skills:</strong> foundational concepts of AI; understanding explainability, transparency, interpretability, bias, and fairness of models; privacy and security</li>
-    </ul>
-    <h3>Syllabus</h3>
-    <iframe src="Responsible AI.pdf" width="100%" height="600px"></iframe> <br><br>
-
-    <h2 id="generative-ai-applications-implications-and-governance">Generative AI: Applications, Implications, and Governance</h2>
-    <h3>Skills</h3>
-    <ul>
-      <li><strong>Communication, Strategy, and Critical Thinking Skills:</strong> strategic literacy, policy analysis, policy writing, regulatory fluency</li>
-      <li><strong>Technical and AI Interaction Skills:</strong> AI fluency, foundational concepts of generative AI, adaptability to new technologies, applications of AI</li>
-    </ul>
-    <h3>Syllabus</h3>
-    <iframe src="GenAI.pdf" width="100%" height="600px"></iframe> <br><br>
-
-    <h2 id="developing-your-own-curriculum">Developing Your Own Curriculum</h2>
-    <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
-      <p>The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing detailed course materials and related activities.</p>
-
-      <strong>Tips for using LLMs for Curriculum Development:</strong>
+      <h2 id="introduction-to-ai">Introduction to AI</h2>
+      <h3>Skills</h3>
       <ul>
-        <li>Try entering prompts into different LLMs, such as NotebookLM and several chatbots.</li>
-        <li>Use sufficient context to prompt the LLM, including course goals, duration, and student background.</li>
-        <li>Describe your audience – their level of experience and learning needs.</li>
-        <li>Be specific: e.g. "The class presentation should contain 15 slides..."</li>
-        <li>Iterate and refine based on results.</li>
+        <li><strong>Communication and Interpersonal Skills:</strong> Written and verbal communication, teamwork and collaboration, conflict resolution</li>
+        <li><strong>Analysis and Critical Thinking Skills:</strong> Broad socio-technical perspective, ethical analysis, policy analysis</li>
+        <li><strong>Applied and Functional Skills:</strong> Project management, problem scoping, applying AI to specific problems, understanding uses and limitations of AI</li>
+        <li><strong>Technical Skills:</strong> Data collection, analysis, processing; programming; foundational AI concepts (ML, LLMs, neural networks, etc.)</li>
       </ul>
+      <h3>Syllabus</h3>
+      <iframe src="Introduction to AI.pdf" width="100%" height="600px"></iframe> <br><br>
 
-      <strong>Prompts to develop specific content:</strong>
+      <h2 id="fundamentals-of-operationalizing-ai-mastering-ai-system-lifecycle-from-theory-to-practice">Fundamentals of Operationalizing AI: Mastering AI System Lifecycle from Theory to Practice</h2>
+      <h3>Skills</h3>
       <ul>
-        <li>Create an interactive activity focused on <em>AI interpretability methods</em> for <em>20 graduate students</em> in <em>small groups</em>, 20–30 minutes.</li>
-        <li>Develop a <em>60-minute</em> lesson on <em>the EU AI Act</em> for graduate students.</li>
+        <li><strong>Communication, Critical Thinking, and Interpersonal Skills:</strong> written and verbal communication, teamwork and collaboration, systems thinking</li>
+        <li><strong>Strategy and Innovation Skills:</strong> project management, business strategy, cost-benefit and ROI analysis</li>
+        <li><strong>Ethics and Governance Skills:</strong> risk evaluation and mitigation, governance frameworks, ethical and policy analysis</li>
+        <li><strong>Technical and AI Interaction Skills:</strong> end-to-end AI lifecycle management, MLOps, Jupyter Lab, Docker, Kubernetes, Kubeflow, Kafka, Evidently, basic data science</li>
       </ul>
+      <h3>Syllabus</h3>
+      <iframe src="Operationalizing AI.pdf" width="100%" height="600px"></iframe> <br><br>
 
-      <strong>Prompts for specific skills:</strong>
+      <h2 id="responsible-ai-principles-policies-practices">Responsible AI: Principles, Policies, Practices</h2>
+      <h3>Skills</h3>
       <ul>
-        <li>Create an activity on <em>AI policy writing</em> for <em>35 undergraduates</em>, in <em>pairs</em>, for <em>15 minutes</em>.</li>
-        <li>Design a lesson on <em>cost-benefit analysis</em> for <em>graduate students</em> with interactive activities, 80 minutes total.</li>
+        <li><strong>Communication and Interpersonal Skills:</strong> teamwork and collaboration, written and verbal communication</li>
+        <li><strong>Ethics and Governance Skills:</strong> NIST AI Risk Management Framework, governance strategy, regulatory fluency, ethical analysis, policy analysis, impact assessments and audits</li>
+        <li><strong>Technical and AI Interaction Skills:</strong> foundational concepts of AI; understanding explainability, transparency, interpretability, bias, and fairness of models; privacy and security</li>
       </ul>
+      <h3>Syllabus</h3>
+      <iframe src="Responsible AI.pdf" width="100%" height="600px"></iframe> <br><br>
 
-      <p>For more tips on LLM prompt engineering for curriculum development, see <a href="https://ieeexplore.ieee.org/document/10869091">this article</a>.</p>
+      <h2 id="generative-ai-applications-implications-and-governance">Generative AI: Applications, Implications, and Governance</h2>
+      <h3>Skills</h3>
+      <ul>
+        <li><strong>Communication, Strategy, and Critical Thinking Skills:</strong> strategic literacy, policy analysis, policy writing, regulatory fluency</li>
+        <li><strong>Technical and AI Interaction Skills:</strong> AI fluency, foundational concepts of generative AI, adaptability to new technologies, applications of AI</li>
+      </ul>
+      <h3>Syllabus</h3>
+      <iframe src="GenAI.pdf" width="100%" height="600px"></iframe> <br><br>
+
+      <h2 id="developing-your-own-curriculum">Developing Your Own Curriculum</h2>
+      <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
+        <p>The above syllabi outline content and readings relevant to the learning objectives covered by each course. In order to build upon the syllabi and develop courses relevant to your specific student population, LLM prompts can be useful for developing detailed course materials and related activities.</p>
+
+        <strong>Tips for using LLMs for Curriculum Development:</strong>
+        <ul>
+          <li>Try entering prompts into different LLMs, such as NotebookLM and several chatbots.</li>
+          <li>Use sufficient context to prompt the LLM, including course goals, duration, and student background.</li>
+          <li>Describe your audience – their level of experience and learning needs.</li>
+          <li>Be specific: e.g. "The class presentation should contain 15 slides..."</li>
+          <li>Iterate and refine based on results.</li>
+        </ul>
+
+        <strong>Prompts to develop specific content:</strong>
+        <ul>
+          <li>Create an interactive activity focused on <em>AI interpretability methods</em> for <em>20 graduate students</em> in <em>small groups</em>, 20–30 minutes.</li>
+          <li>Develop a <em>60-minute</em> lesson on <em>the EU AI Act</em> for graduate students.</li>
+        </ul>
+
+        <strong>Prompts for specific skills:</strong>
+        <ul>
+          <li>Create an activity on <em>AI policy writing</em> for <em>35 undergraduates</em>, in <em>pairs</em>, for <em>15 minutes</em>.</li>
+          <li>Design a lesson on <em>cost-benefit analysis</em> for <em>graduate students</em> with interactive activities, 80 minutes total.</li>
+        </ul>
+
+        <p>For more tips on LLM prompt engineering for curriculum development, see <a href="https://ieeexplore.ieee.org/document/10869091">this article</a>.</p>
+      </div>
     </div>
   </div>
 
