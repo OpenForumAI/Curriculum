@@ -17,10 +17,10 @@
     .layout-wrapper {
       display: flex;
       align-items: flex-start;
-      padding: 2rem 0;
+      padding: 2rem 1rem 2rem 2rem;
       max-width: none;
-      margin: 0 auto;
-      gap: 4rem;
+      margin: 0;
+      gap: 3rem;
     }
 
     #sticky-nav {
@@ -51,11 +51,16 @@
       flex: 1;
       min-width: 0;
       max-width: none;
-      width: 3000px;
+      padding-right: 2rem;
     }
 
     .footer-wrapper {
-      width: 100%;
+      width: 100vw;
+      position: relative;
+      left: 50%;
+      right: 50%;
+      margin-left: -50vw;
+      margin-right: -50vw;
       background-color: #ffeeee;
       border-top: 1px solid #ddd;
       margin-top: 3rem;
@@ -68,23 +73,43 @@
 
     .footer-content {
       padding: 0 4rem;
+      max-width: 1200px;
+      margin: 0 auto;
     }
 
+    /* Mobile styles */
     @media (max-width: 768px) {
       .layout-wrapper {
         flex-direction: column;
         padding: 1rem;
+        margin: 0;
+        gap: 1rem;
       }
 
       #sticky-nav {
         width: 100%;
         position: relative;
         box-shadow: none;
-        margin-bottom: 1.5rem;
+        margin-bottom: 1rem;
+      }
+
+      .main-content {
+        padding-right: 0;
+      }
+
+      .footer-wrapper {
+        width: 100vw;
+        position: relative;
+        left: 50%;
+        right: 50%;
+        margin-left: -50vw;
+        margin-right: -50vw;
+        padding: 1.5rem 0;
       }
 
       .footer-content {
         padding: 0 1rem;
+        max-width: none;
       }
     }
   </style>
