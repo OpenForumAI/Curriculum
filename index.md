@@ -51,6 +51,7 @@
       flex: 1;
       min-width: 0;
       max-width: none;
+      width: 2000px
     }
 
     .footer-wrapper {
