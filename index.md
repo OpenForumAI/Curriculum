@@ -14,8 +14,9 @@
     .layout-wrapper {
       display: flex;
       align-items: flex-start;
-      padding: 2rem 3rem;
-      max-width: 100%;
+      padding: 2rem 4rem;
+      max-width: 1800px;
+      margin: 0 auto;
       box-sizing: border-box;
       gap: 3rem;
     }
@@ -46,7 +47,6 @@
 
     .main-content {
       flex: 1;
-      max-width: 1600px;
       min-width: 0;
     }
 
@@ -55,7 +55,7 @@
       background-color: #f9f9f9;
       border-top: 1px solid #ddd;
       margin-top: 3rem;
-      padding: 2rem 1rem;
+      padding: 2rem 4rem;
       font-size: 0.9em;
       color: #666;
       text-align: center;
@@ -89,8 +89,8 @@
         <li><a href="#developing-your-own-curriculum">Developing Your Own Curriculum</a></li>
       </ul>
     </div>
-
-    <h2 id="introduction-to-ai">Introduction to AI</h2>
+    <div class="main-content">
+       <h2 id="introduction-to-ai">Introduction to AI</h2>
     <h3>Skills</h3>
     <ul>
       <li><strong>Communication and Interpersonal Skills:</strong> Written and verbal communication, teamwork and collaboration, conflict resolution</li>
@@ -157,6 +157,7 @@
       </ul>
 
       <p>For more tips on LLM prompt engineering for curriculum development, see <a href="https://ieeexplore.ieee.org/document/10869091">this article</a>.</p>
+    </div>
   </div>
 
   <div class="footer-wrapper">
