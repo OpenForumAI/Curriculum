@@ -17,7 +17,7 @@
     .layout-wrapper {
       display: flex;
       align-items: flex-start;
-      padding: 2rem 4rem;
+      padding: 2rem 0;
       max-width: none;
       margin: 0 auto;
       gap: 4rem;
