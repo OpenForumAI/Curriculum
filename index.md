@@ -18,7 +18,7 @@
       display: flex;
       align-items: flex-start;
       padding: 2rem 4rem;
-      max-width: 2000px;
+      max-width: none;
       margin: 0 auto;
       gap: 4rem;
     }
@@ -50,7 +50,7 @@
     .main-content {
       flex: 1;
       min-width: 0;
-      max-width: 1600px;
+      max-width: none;
     }
 
     .footer-wrapper {
@@ -58,11 +58,15 @@
       background-color: #ffeeee;
       border-top: 1px solid #ddd;
       margin-top: 3rem;
-      padding: 2rem 4rem;
+      padding: 2rem 0;
       font-size: 0.9em;
       color: #666;
       text-align: center;
       box-sizing: border-box;
+    }
+
+    .footer-content {
+      padding: 0 4rem;
     }
 
     @media (max-width: 768px) {
@@ -76,6 +80,10 @@
         position: relative;
         box-shadow: none;
         margin-bottom: 1.5rem;
+      }
+
+      .footer-content {
+        padding: 0 1rem;
       }
     }
   </style>
@@ -99,7 +107,7 @@
 
         <h1>Public-Sector AI Curriculum</h1>
 
-        <p>In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses:</p>
+        <p>In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University's Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses:</p>
 
         <ul>
           <li>Introduction to AI</li>
@@ -172,10 +180,12 @@
         </div>
       </div>
     </div>
+  </div>
 
-    <div class="footer-wrapper">
+  <div class="footer-wrapper">
+    <div class="footer-content">
       <p>
-        A project of the <a href="https://www.cmu.edu/engin/programs/ofai.html">Open Forum for AI</a> created by <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University’s Heinz College of Information Systems and Public Policy</a> in partnership with the <a href="https://noblereach.org/">NobleReach Foundation</a>.
+        A project of the <a href="https://www.cmu.edu/engin/programs/ofai.html">Open Forum for AI</a> created by <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University's Heinz College of Information Systems and Public Policy</a> in partnership with the <a href="https://noblereach.org/">NobleReach Foundation</a>.
       </p>
     </div>
   </div>
