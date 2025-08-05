@@ -187,5 +187,3 @@
       </p>
     </div>
   </div> <!-- end page-wrapper -->
-</body>
-</html>
