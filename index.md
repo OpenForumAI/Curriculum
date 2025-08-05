@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
@@ -177,9 +178,8 @@
           <li>Design a lesson on <em>cost-benefit analysis</em> for <em>graduate students</em> with interactive activities, 80 minutes total.</li>
         </ul>
 
-        <p>For more tips on LLM prompt engineering for curriculum development, see <a href="https://ieeexplore.ieee.org/document/10869091">this article</a>.</p>
-    </div>
-  </div>
+      </div> <!-- end main-content -->
+    </div> <!-- end layout-wrapper -->
 
     <div class="footer-wrapper">
       <p>
@@ -187,3 +187,5 @@
       </p>
     </div>
   </div> <!-- end page-wrapper -->
+</body>
+</html>
