@@ -3,21 +3,23 @@
   <meta charset="UTF-8">
   <title>Public-Sector AI Curriculum</title>
   <style>
-    html, body {
+    body {
       margin: 0;
-      padding: 0;
-      width: 100%;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       background-color: #fff;
+    }
+
+    .page-wrapper {
+      max-width: none;
+      width: 100%;
     }
 
     .layout-wrapper {
       display: flex;
       align-items: flex-start;
-      padding: 2rem 4rem;
-      max-width: 1800px;
+      padding: 2rem 3rem;
+      max-width: 1600px;
       margin: 0 auto;
-      box-sizing: border-box;
       gap: 3rem;
     }
 
@@ -47,19 +49,18 @@
 
     .main-content {
       flex: 1;
+      max-width: 1200px;
       min-width: 0;
     }
 
     .footer-wrapper {
-      width: 100%;
       background-color: #f9f9f9;
       border-top: 1px solid #ddd;
       margin-top: 3rem;
-      padding: 2rem 4rem;
+      padding: 2rem 1rem;
       font-size: 0.9em;
       color: #666;
       text-align: center;
-      box-sizing: border-box;
     }
 
     @media (max-width: 768px) {
@@ -78,17 +79,37 @@
   </style>
 </head>
 <body>
-  <div class="layout-wrapper">
-    <div id="sticky-nav">
-      <strong>Jump to:</strong>
-      <ul>
-        <li><a href="#introduction-to-ai">Introduction to AI</a></li>
-        <li><a href="#fundamentals-of-operationalizing-ai-mastering-ai-system-lifecycle-from-theory-to-practice">Operationalizing AI</a></li>
-        <li><a href="#responsible-ai-principles-policies-practices">Responsible AI</a></li>
-        <li><a href="#generative-ai-applications-implications-and-governance">Generative AI</a></li>
-        <li><a href="#developing-your-own-curriculum">Developing Your Own Curriculum</a></li>
-      </ul>
-    </div>
+  <div class="page-wrapper">
+    <div class="layout-wrapper">
+      <div id="sticky-nav">
+        <strong>Jump to:</strong>
+        <ul>
+          <li><a href="#introduction-to-ai">Introduction to AI</a></li>
+          <li><a href="#fundamentals-of-operationalizing-ai-mastering-ai-system-lifecycle-from-theory-to-practice">Operationalizing AI</a></li>
+          <li><a href="#responsible-ai-principles-policies-practices">Responsible AI</a></li>
+          <li><a href="#generative-ai-applications-implications-and-governance">Generative AI</a></li>
+          <li><a href="#developing-your-own-curriculum">Developing Your Own Curriculum</a></li>
+        </ul>
+      </div>
+
+      <div class="main-content">
+        <!-- Your main content starts here -->
+
+        <img src="ofai-cmu.png" width="500"> <br><br>
+
+        <h1>Public-Sector AI Curriculum</h1>
+
+        <p>In order to prepare professionals to work with open-source AI in the public sector, Carnegie Mellon University’s Heinz College of Information Systems and Public Policy has released an open-source curriculum of four courses:</p>
+
+        <ul>
+          <li>Introduction to AI</li>
+          <li>Fundamentals of Operationalizing AI: Mastering AI System Lifecycle from Theory to Practice</li>
+          <li>Responsible AI: Principles, Policies, and Practices</li>
+          <li>Generative AI: Applications, Implications, and Governance</li>
+        </ul>
+
+        <p>Collectively, these courses introduce students to the knowledge and skills requisite to understand the foundations of AI design and implementation, including opportunities, risks, limitations, and frontier developments.</p>
+
     <div class="main-content">
       <h2 id="introduction-to-ai">Introduction to AI</h2>
       <h3>Skills</h3>
@@ -157,14 +178,14 @@
         </ul>
 
         <p>For more tips on LLM prompt engineering for curriculum development, see <a href="https://ieeexplore.ieee.org/document/10869091">this article</a>.</p>
-      </div>
     </div>
   </div>
 
-  <div class="footer-wrapper">
-    <p>
-      A project of the <a href="https://www.cmu.edu/engin/programs/ofai.html">Open Forum for AI</a> created by <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University’s Heinz College of Information Systems and Public Policy</a> in partnership with the <a href="https://noblereach.org/">NobleReach Foundation</a>.
-    </p>
-  </div>
+    <div class="footer-wrapper">
+      <p>
+        A project of the <a href="https://www.cmu.edu/engin/programs/ofai.html">Open Forum for AI</a> created by <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University’s Heinz College of Information Systems and Public Policy</a> in partnership with the <a href="https://noblereach.org/">NobleReach Foundation</a>.
+      </p>
+    </div>
+  </div> <!-- end page-wrapper -->
 </body>
 </html>
