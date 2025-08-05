@@ -152,6 +152,8 @@
           <li><strong>Applied and Functional Skills:</strong> Project management, problem scoping, applying AI to specific problems, understanding uses and limitations of AI</li>
           <li><strong>Technical Skills:</strong> Data collection, analysis, processing; programming; foundational AI concepts (ML, LLMs, neural networks, etc.)</li>
         </ul>
+        <h3>Syllabus</h3>
+      <iframe src="Introduction to AI.pdf" width="100%" height="600px"></iframe> <br><br>
 
         <h2 id="fundamentals-of-operationalizing-ai-mastering-ai-system-lifecycle-from-theory-to-practice">Fundamentals of Operationalizing AI</h2>
         <h3>Skills</h3>
@@ -161,6 +163,8 @@
           <li><strong>Ethics and Governance Skills:</strong> risk evaluation and mitigation, governance frameworks, ethical and policy analysis</li>
           <li><strong>Technical and AI Interaction Skills:</strong> end-to-end AI lifecycle management, MLOps, Jupyter Lab, Docker, Kubernetes, Kubeflow, Kafka, Evidently, basic data science</li>
         </ul>
+        <h3>Syllabus</h3>
+      <iframe src="Operationalizing AI.pdf" width="100%" height="600px"></iframe> <br><br>
 
         <h2 id="responsible-ai-principles-policies-practices">Responsible AI</h2>
         <h3>Skills</h3>
@@ -169,6 +173,8 @@
           <li><strong>Ethics and Governance Skills:</strong> NIST AI Risk Management Framework, governance strategy, regulatory fluency, ethical analysis, policy analysis, impact assessments and audits</li>
           <li><strong>Technical and AI Interaction Skills:</strong> foundational concepts of AI; understanding explainability, transparency, interpretability, bias, and fairness of models; privacy and security</li>
         </ul>
+        <h3>Syllabus</h3>
+      <iframe src="Responsible AI.pdf" width="100%" height="600px"></iframe> <br><br>
 
         <h2 id="generative-ai-applications-implications-and-governance">Generative AI</h2>
         <h3>Skills</h3>
@@ -176,6 +182,8 @@
           <li><strong>Communication, Strategy, and Critical Thinking Skills:</strong> strategic literacy, policy analysis, policy writing, regulatory fluency</li>
           <li><strong>Technical and AI Interaction Skills:</strong> AI fluency, foundational concepts of generative AI, adaptability to new technologies, applications of AI</li>
         </ul>
+        <h3>Syllabus</h3>
+      <iframe src="GenAI.pdf" width="100%" height="600px"></iframe> <br><br>
 
         <h2 id="developing-your-own-curriculum">Developing Your Own Curriculum</h2>
         <div style="border: 1px solid #ddd; background-color: #f3f3f3; padding: 1em 1.5em; margin-top: 1em; margin-bottom: 2em; border-radius: 8px;">
