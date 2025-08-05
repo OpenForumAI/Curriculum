@@ -17,17 +17,18 @@
     .layout-wrapper {
       display: flex;
       align-items: flex-start;
-      padding: 2rem 1rem 2rem 2rem;
+      padding: 2rem 2rem 2rem 1rem;
       max-width: none;
       margin: 0;
-      gap: 3rem;
+      gap: 2rem;
+      width: 100%;
     }
 
     #sticky-nav {
       position: sticky;
       top: 1rem;
       align-self: flex-start;
-      width: 200px;
+      width: 180px;
       background-color: #f3f3f3;
       border: 1px solid #ddd;
       padding: 1em;
@@ -51,7 +52,7 @@
       flex: 1;
       min-width: 0;
       max-width: none;
-      padding-right: 2rem;
+      padding-right: 1rem;
     }
 
     .footer-wrapper {
@@ -72,9 +73,9 @@
     }
 
     .footer-content {
-      padding: 0 4rem;
-      max-width: 1200px;
-      margin: 0 auto;
+      padding: 0 2rem;
+      max-width: none;
+      margin: 0;
     }
 
     /* Mobile styles */
