@@ -54,7 +54,13 @@
   }
 
 .footer-wrapper {
-  width: 100%;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
+
   background-color: #ffeeee;
   border-top: 1px solid #ddd;
   margin-top: 3rem;
