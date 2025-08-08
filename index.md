@@ -54,23 +54,23 @@
   }
 
 .footer-wrapper {
+  width: 100%;
   background-color: #ffeeee;
   border-top: 1px solid #ddd;
   margin-top: 3rem;
+  padding: 2rem 0;
   font-size: 0.9em;
   color: #666;
   text-align: center;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 2rem;
-  width: 100%;
   box-sizing: border-box;
 }
 
 .footer-content {
-  max-width: 1200px;
   width: 100%;
+  max-width: 1200px;
   padding: 0 2rem;
   box-sizing: border-box;
 }
@@ -202,7 +202,7 @@
     </div>
   </div>
 
-  <div class="footer-wrapper">
+<div class="footer-wrapper">
   <div class="footer-content">
     <p>
       A project of the <a href="https://www.cmu.edu/engin/programs/ofai.html">Open Forum for AI</a> created by
