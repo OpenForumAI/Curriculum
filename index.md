@@ -53,24 +53,27 @@
     padding-right: 1rem;
   }
 
-  .footer-wrapper {
-    background-color: #ffeeee;
-    border-top: 1px solid #ddd;
-    padding: 2rem 0;
-    font-size: 0.9em;
-    color: #666;
-    text-align: center;
-    box-sizing: border-box;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+.footer-wrapper {
+  background-color: #ffeeee;
+  border-top: 1px solid #ddd;
+  margin-top: 3rem;
+  font-size: 0.9em;
+  color: #666;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  width: 100%;
+  box-sizing: border-box;
+}
 
-  .footer-content {
-    max-width: 1200px;
-    padding: 0 2rem;
-  }
+.footer-content {
+  max-width: 1200px;
+  width: 100%;
+  padding: 0 2rem;
+  box-sizing: border-box;
+}
 
   /* Mobile styles */
   @media (max-width: 768px) {
@@ -200,12 +203,17 @@
   </div>
 
   <div class="footer-wrapper">
-    <div class="footer-content">
-      <p>
-        A project of the <a href="https://www.cmu.edu/engin/programs/ofai.html">Open Forum for AI</a> created by <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University's Heinz College of Information Systems and Public Policy</a> in partnership with the <a href="https://noblereach.org/">NobleReach Foundation</a>.<br>
-        Talent and Workforce © 2025 compiled by Nicole Sanna and Rachel Dzombak is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-      </p>
-    </div>
+  <div class="footer-content">
+    <p>
+      A project of the <a href="https://www.cmu.edu/engin/programs/ofai.html">Open Forum for AI</a> created by
+      <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University's Heinz College of Information Systems and Public Policy</a>
+      in partnership with the <a href="https://noblereach.org/">NobleReach Foundation</a>.<br>
+      Talent and Workforce © 2025 compiled by Nicole Sanna and Rachel Dzombak is licensed under
+      <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+      <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="cc" style="max-width: 1em; max-height:1em; margin-left: .2em;">
+      <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="by" style="max-width: 1em; max-height:1em; margin-left: .2em;">
+    </p>
   </div>
+</div>
 </body>
 </html>
