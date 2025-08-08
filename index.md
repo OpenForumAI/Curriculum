@@ -3,117 +3,99 @@
   <meta charset="UTF-8">
   <title>Public-Sector AI Curriculum</title>
   <style>
-    body {
-      margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      background-color: #fff;
-    }
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #fff;
+  }
 
-    .page-wrapper {
-      max-width: none;
-      width: 100%;
-    }
+  .page-wrapper {
+    width: 100%;
+  }
 
+  .layout-wrapper {
+    display: flex;
+    align-items: flex-start;
+    padding: 2rem 2rem 2rem 1rem;
+    gap: 2rem;
+    width: 100%;
+  }
+
+  #sticky-nav {
+    position: sticky;
+    top: 1rem;
+    align-self: flex-start;
+    width: 180px;
+    background-color: #f3f3f3;
+    border: 1px solid #ddd;
+    padding: 1em;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    font-size: 0.9em;
+    flex-shrink: 0;
+  }
+
+  #sticky-nav ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+
+  #sticky-nav li {
+    margin-bottom: 0.5em;
+  }
+
+  .main-content {
+    flex: 1;
+    min-width: 0;
+    padding-right: 1rem;
+  }
+
+  .footer-wrapper {
+    background-color: #ffeeee;
+    border-top: 1px solid #ddd;
+    padding: 2rem 0;
+    font-size: 0.9em;
+    color: #666;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .footer-content {
+    max-width: 1200px;
+    padding: 0 2rem;
+  }
+
+  /* Mobile styles */
+  @media (max-width: 768px) {
     .layout-wrapper {
-      display: flex;
-      align-items: flex-start;
-      padding: 2rem 2rem 2rem 1rem;
-      max-width: none;
-      margin: 0;
-      gap: 2rem;
-      width: 100%;
+      flex-direction: column;
+      padding: 1rem;
+      gap: 1rem;
     }
 
     #sticky-nav {
-      position: sticky;
-      top: 1rem;
-      align-self: flex-start;
-      width: 180px;
-      background-color: #f3f3f3;
-      border: 1px solid #ddd;
-      padding: 1em;
-      border-radius: 20px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-      font-size: 0.9em;
-      flex-shrink: 0;
-    }
-
-    #sticky-nav ul {
-      list-style: none;
-      padding-left: 0;
-      margin: 0;
-    }
-
-    #sticky-nav li {
-      margin-bottom: 0.5em;
+      width: 100%;
+      position: relative;
+      box-shadow: none;
+      margin-bottom: 1rem;
     }
 
     .main-content {
-      flex: 1;
-      min-width: 0;
-      max-width: none;
-      padding-right: 1rem;
-    }
-
-    .footer-wrapper {
-      width: 100vw;
-      position: relative;
-      left: 50%;
-      right: 50%;
-      margin-left: -50vw;
-      margin-right: -50vw;
-      background-color: #ffeeee;
-      border-top: 1px solid #ddd;
-      margin-top: 3rem;
-      padding: 2rem 0;
-      font-size: 0.9em;
-      color: #666;
-      text-align: center;
-      box-sizing: border-box;
+      padding-right: 0;
     }
 
     .footer-content {
-      padding: 0 2rem;
-      max-width: none;
-      margin: 0;
+      padding: 0 1rem;
     }
-
-    /* Mobile styles */
-    @media (max-width: 768px) {
-      .layout-wrapper {
-        flex-direction: column;
-        padding: 1rem;
-        margin: 0;
-        gap: 1rem;
-      }
-
-      #sticky-nav {
-        width: 100%;
-        position: relative;
-        box-shadow: none;
-        margin-bottom: 1rem;
-      }
-
-      .main-content {
-        padding-right: 0;
-      }
-
-      .footer-wrapper {
-        width: 100vw;
-        position: relative;
-        left: 50%;
-        right: 50%;
-        margin-left: -50vw;
-        margin-right: -50vw;
-        padding: 1.5rem 0;
-      }
-
-      .footer-content {
-        padding: 0 1rem;
-        max-width: none;
-      }
-    }
-  </style>
+  }
+</style>
 </head>
 <body>
   <div class="page-wrapper">
